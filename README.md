@@ -1,2 +1,2 @@
 # everydayPython
-One problem everyday
+Solve one problem everyday
