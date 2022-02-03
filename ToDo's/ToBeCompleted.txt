@@ -1,0 +1,8 @@
+String Format
+https://www.datacamp.com/community/tutorials/python-string-format
+Python Code Challenges
+https://www.codecademy.com/resources/blog/python-code-challenges-for-beginners/
+https://www.geektrust.in/dashboard
+https://www.w3resource.com/python-exercises/
+SQL Practice
+https://platform.stratascratch.com/coding/10299-finding-updated-records?python=1
