@@ -1,3 +1,8 @@
+Python To Do's
+ + File methods and out why we had to pass a 'w' as an extra parameter to open. Hint: open tries to be safe by making you explicitly say you want to write a file
+ + If you open the file with 'w' mode, then do you really need the target.truncate()? Read the documentation for Python’s open function and see if that’s true. esp. check on close and when it is needed
+ + Understand file Object
+ + Sorting in Python
 String Format
 https://www.datacamp.com/community/tutorials/python-string-format
 Python Code Challenges
